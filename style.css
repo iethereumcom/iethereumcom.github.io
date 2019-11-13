@@ -678,11 +678,11 @@ body.mrs-white .morph-button-modal-2 .morph-content {
 
 .marshall-content {
     display: block;
-    margin-left: 15%;
+    margin-left: 0px;
     position: absolute;
     top: 50%;
     visibility: visible;
-    width: 70%;
+    width: 100%;
 }
 
 .marshall-button-group {
